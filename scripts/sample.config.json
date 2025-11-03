@@ -1,0 +1,7 @@
+{
+  "baseUrl": "https://gitlab.com",
+  "projects": [ { "id": 12345678, "name": "example/project" } ],
+  "branch": "main",
+  "sinceDays": 30,
+  "outputDir": "./reports"
+}
